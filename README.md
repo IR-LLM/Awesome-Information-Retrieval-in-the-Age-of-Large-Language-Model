@@ -5,7 +5,7 @@
   <br>
 </p>
 
-# Awesome Information-Retrieval-in-the-Age-of-Large-Language-Model
+# Awesome Information Retrieval in the Age of Large Language Model
 
 > A curated list of awesome papers about information retrieval(IR) in the age of large language model(LLM). These include retrieval augmented large language model, large language model for information retrieval, and so on. If I missed any papers, feel free to open a PR to include them! And any feedback and contributions are welcome! 
 

@@ -1,6 +1,6 @@
 <p align="center">
   <br>
-  <img width="600" src="./imgs/IR and LLM.png" alt="logo of awesome repository">
+  <img width="600" src="./imgs/IR with LLM.png" alt="logo of awesome repository">
   <br>
   <br>
 </p>

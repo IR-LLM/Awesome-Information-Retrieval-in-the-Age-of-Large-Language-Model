@@ -9,7 +9,7 @@
 
 > A curated list of awesome papers about information retrieval(IR) in the age of large language model(LLM). These include retrieval augmented large language model, large language model for information retrieval, and so on. If I missed any papers, feel free to open a PR to include them! And any feedback and contributions are welcome! 
 
-This list is currently maintained by [Yinqiong Cai](https://caiyinqiong.github.io/resume/),[Yu-An Liu](https://davion-liu.github.io/), and [Shiyu Nee](https://shiyunee.github.io/), at CAS Key Lab of Network Data Science and Technology, ICT, CAS. 
+This list is currently maintained by [Yinqiong Cai](https://caiyinqiong.github.io/resume/), [Yu-An Liu](https://davion-liu.github.io/), [Shiyu Nee](https://shiyunee.github.io/), and Hengran Zhang at CAS Key Lab of Network Data Science and Technology, ICT, CAS. 
 
 We thank all the great contributors very much.
 

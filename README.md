@@ -23,7 +23,9 @@ We thank all the great contributors very much.
 - [LLM for IR](#LLM-for-IR)
 	* [Generating Synthetic Queries](#generating-synthetic-queries)  
 	* [Generating Synthetic Documents](#generating-synthetic-documents) 
-	* [Generating Ranking Lists](#generating-ranking-lists)       
+	* [Generating Ranking Lists](#generating-ranking-lists)
+  	* [Query Understanding](#query-understanding)
+     	* [Query Extension](#query-extension)       
 	* [Generate rather than Retrieve](#generate-rather-than-retrieve) 
 - [Benchmark and Evaluation](#benchmark-and-evaluation)
 - [Toolkits](#toolkits)
@@ -47,9 +49,11 @@ We thank all the great contributors very much.
 - [Generalization through memorization: Nearest neighbor language models.](https://arxiv.org/pdf/1911.00172.pdf) *Urvashi Khandelwal et.al.* Arxiv 2019.
 - [Interleaving retrieval with chain-of-thought reasoning for knowledge-intensive multi-step questions.](https://arxiv.org/pdf/2212.10509) *Harsh Trivedi et.al.* Arxiv 2022.
 - [Rethinking with retrieval: Faithful large language model inference.](https://arxiv.org/pdf/2301.00303) *Hangfeng He et.al.* Arxiv 2023.
-- [REPLUG: Retrieval-Augmented Black-Box Language Models.](https://arxiv.org/pdf/2301.12652) *Weijia Shi et.al.* Arxiv 2023.
+
 
 ### Joint Optimization of IR and LLM
+
+- [REPLUG: Retrieval-Augmented Black-Box Language Models.](https://arxiv.org/pdf/2301.12652) *Weijia Shi et.al.* Arxiv 2023.
 
 ## LLM for IR
 
@@ -68,6 +72,16 @@ We thank all the great contributors very much.
 
 - [Is ChatGPT Good at Search? Investigating Large Language Models as Re-Ranking Agent](https://arxiv.org/pdf/2304.09542) *Weiwei Sun et al.* Arxiv 2023.
 - [Zero-Shot Listwise Document Reranking with a Large Language Model ](https://arxiv.org/pdf/2305.02156) *Xueguang Ma et al.* Arxiv 2023.
+
+### Query Understanding
+
+- [Query Understanding in the Age of Large Language Models](https://arxiv.org/pdf/2306.16004) *Avishek Anand et al.* Gen-IR 2023.
+
+### Query Extension
+
+- [Generative relevance feedback with large language models](https://arxiv.org/pdf/2304.13157) *Iain Mackie et al.* Arxiv 2023.
+- [Query2doc: Query expansion with large language models](https://arxiv.org/pdf/2303.07678) *Liang Wang et al.* Arxiv 2023.
+
 
 ### Generate rather than Retrieve
 

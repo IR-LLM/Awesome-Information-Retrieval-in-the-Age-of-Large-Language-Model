@@ -16,9 +16,10 @@ We thank all the great contributors very much.
 ## Contents
 
 - [Retrieval Augmented LLM](#retrieval-augmented-LLM)
-	* [Pre-training Stage](#pre-training-stage)  
-	* [Fine-tuning Stage](#fine-tuning-stage)        
-	* [Inference Stage](#inference-stage) 
+	* [For Pre-training LLM](#for-pre-training-llm)  
+	* [For Fine-tuning LLM](#for-fine-tuning-llm)        
+	* [For Inference of LLM](#for-inference-of-llm)
+  	* [Joint Optimization of IR and LLM](#joint-optimization-of-ir-and-llm) 
 - [LLM for IR](#LLM-for-IR)
 	* [Generating Synthetic Queries](#generating-synthetic-queries)  
 	* [Generating Synthetic Documents](#generating-synthetic-documents) 
@@ -30,23 +31,25 @@ We thank all the great contributors very much.
 
 ## Retrieval Augmented LLM
 
-### Pre-training Stage
+### For Pre-training LLM
 - [REALM: Retrieval augmented language model pre-training.](http://proceedings.mlr.press/v119/guu20a/guu20a.pdf) *Kelvin Guu et.al.* ICML 2020.
 - [Atlas: Few-shot Learning with Retrieval Augmented Language Models.](https://arxiv.org/pdf/2208.03299.pdf?trk=public_post_comment-text) *Gautier Izacard et.al.*  Arxiv 2022.
 - [Shall We Pretrain Autoregressive Language Models with Retrieval? A Comprehensive Study.](https://arxiv.org/pdf/2304.06762) *Boxin Wang et.al* Arxiv 2023.
 
-### Fine-tuning Stage
+### For Fine-tuning LLM
 
-- [Dense Passage Retrieval for Open-Domain Question Answering.](https://arxiv.org/abs/2004.04906) *Vladimir Karpukhin et.al.* EMNLP 2020. (**DPR**)
+- [Dense Passage Retrieval for open-domain question answering.](https://arxiv.org/abs/2004.04906) *Vladimir Karpukhin et.al.* EMNLP 2020. (**DPR**)
 - [RAG: Retrieval-augmented generation for knowledge-intensive NLP tasks.](https://arxiv.org/pdf/2005.12989) *Patrick Lewis et.al.* NeurIPS 2020.
-- [FiD：Leveraging passage retrieval with generative models for open domain question answering.](https://arxiv.org/pdf/2007.01282) *Gautier Izacard, Edouard Grave* EACL 2021.
+- [FiD: Leveraging passage retrieval with generative models for open domain question answering.](https://arxiv.org/pdf/2007.01282) *Gautier Izacard, Edouard Grave* EACL 2021.
 
-### Inference Stage
+### For Inference of LLM
 
 - [Generalization through memorization: Nearest neighbor language models.](https://arxiv.org/pdf/1911.00172.pdf) *Urvashi Khandelwal et.al.* Arxiv 2019.
 - [Interleaving retrieval with chain-of-thought reasoning for knowledge-intensive multi-step questions.](https://arxiv.org/pdf/2212.10509) *Harsh Trivedi et.al.* Arxiv 2022.
 - [Rethinking with retrieval: Faithful large language model inference.](https://arxiv.org/pdf/2301.00303) *Hangfeng He et.al.* Arxiv 2023.
 - [REPLUG: Retrieval-Augmented Black-Box Language Models.](https://arxiv.org/pdf/2301.12652) *Weijia Shi et.al.* Arxiv 2023.
+
+### Joint Optimization of IR and LLM
 
 ## LLM for IR
 

@@ -25,7 +25,7 @@ We thank all the great contributors very much.
 	* [Generating Synthetic Documents](#generating-synthetic-documents) 
 	* [Generating Ranking Lists](#generating-ranking-lists)
   	* [Query Understanding](#query-understanding)
-        * [Query Extension](#query-extension)       
+  	* [Query Extension](#query-extension)      
 	* [Generate rather than Retrieve](#generate-rather-than-retrieve) 
 - [Benchmark and Evaluation](#benchmark-and-evaluation)
 - [Toolkits](#toolkits)

@@ -34,7 +34,9 @@ We thank all the great contributors very much.
 ## Retrieval Augmented LLM
 
 ### For Pre-training LLM
+
 - [REALM: Retrieval augmented language model pre-training.](http://proceedings.mlr.press/v119/guu20a/guu20a.pdf) *Kelvin Guu et.al.* ICML 2020.
+- [Improving language models by retrieving from trillions of tokens](https://arxiv.org/pdf/2112.04426.pdf) *Sebastian Borgeaud et.al.* ICML 2022. (**RETRO**)
 - [Shall We Pretrain Autoregressive Language Models with Retrieval? A Comprehensive Study.](https://arxiv.org/pdf/2304.06762) *Boxin Wang et.al* Arxiv 2023.
 
 ### For Fine-tuning LLM
@@ -52,8 +54,10 @@ We thank all the great contributors very much.
 
 ### Joint Optimization of IR and LLM
 
-- [REPLUG: Retrieval-Augmented Black-Box Language Models.](https://arxiv.org/pdf/2301.12652) *Weijia Shi et.al.* Arxiv 2023.
 - [Atlas: Few-shot Learning with Retrieval Augmented Language Models.](https://arxiv.org/pdf/2208.03299.pdf?trk=public_post_comment-text) *Gautier Izacard et.al.*  Arxiv 2022.
+- [REPLUG: Retrieval-Augmented Black-Box Language Models.](https://arxiv.org/pdf/2301.12652) *Weijia Shi et.al.* Arxiv 2023.
+- [Learning to Retrieve In-Context Examples for Large Language Models](https://arxiv.org/pdf/2307.07164.pdf) *Liang Wang et.al.* Arxiv 2023.
+
 
 ## LLM for IR
 

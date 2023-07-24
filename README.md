@@ -25,7 +25,7 @@ We thank all the great contributors very much.
 	* [Generating Synthetic Documents](#generating-synthetic-documents) 
 	* [Generating Ranking Lists](#generating-ranking-lists)
   	* [Query Understanding](#query-understanding)
-     	* [Query Extension](#query-extension)       
+        * [Query Extension](#query-extension)       
 	* [Generate rather than Retrieve](#generate-rather-than-retrieve) 
 - [Benchmark and Evaluation](#benchmark-and-evaluation)
 - [Toolkits](#toolkits)
@@ -81,7 +81,6 @@ We thank all the great contributors very much.
 
 - [Generative relevance feedback with large language models](https://arxiv.org/pdf/2304.13157) *Iain Mackie et al.* Arxiv 2023.
 - [Query2doc: Query expansion with large language models](https://arxiv.org/pdf/2303.07678) *Liang Wang et al.* Arxiv 2023.
-
 
 ### Generate rather than Retrieve
 

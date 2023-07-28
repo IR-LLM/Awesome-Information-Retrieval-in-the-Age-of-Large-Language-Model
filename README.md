@@ -30,8 +30,11 @@ We thank all the great contributors very much.
 - [Benchmark and Evaluation](#benchmark-and-evaluation)
 - [Toolkits](#toolkits)
 
-
 ## Retrieval Augmented LLM
+
+### Survey
+
+- [Augmented Language Models: a Survey](Augmented Language Models: a Survey) *Grégoire Mialon et.al.* Arxiv 2023.
 
 ### For Pre-training LLM
 

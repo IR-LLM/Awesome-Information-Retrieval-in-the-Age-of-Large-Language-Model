@@ -36,7 +36,7 @@ We thank all the great contributors very much.
 
 ### Survey
 
-- [Augmented Language Models: a Survey](Augmented Language Models: a Survey) *Grégoire Mialon et.al.* Arxiv 2023.
+- [Augmented Language Models: a Survey](https://arxiv.org/pdf/2302.07842.pdf) *Grégoire Mialon et.al.* Arxiv 2023.
 
 ### For Pre-training LLM
 

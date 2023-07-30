@@ -16,11 +16,11 @@ We thank all the great contributors very much.
 ## Contents
 
 - [Retrieval Augmented LLM](#retrieval-augmented-LLM)
-  - [Survey](#survey) 
-  - [For Pre-training LLM](#for-pre-training-llm)  
-  - [For Fine-tuning LLM](#for-fine-tuning-llm)        
-  - [For Inference of LLM](#for-inference-of-llm)
-    * [Joint Optimization of IR and LLM](#joint-optimization-of-ir-and-llm) 
+  * [Survey](#survey) 
+  * [For Pre-training LLM](#for-pre-training-llm)  
+  * [For Fine-tuning LLM](#for-fine-tuning-llm)        
+  * [For Inference of LLM](#for-inference-of-llm)
+  * [Joint Optimization of IR and LLM](#joint-optimization-of-ir-and-llm) 
 
 - [LLM for IR](#LLM-for-IR)
   * [Generating Synthetic Queries](#generating-synthetic-queries)  

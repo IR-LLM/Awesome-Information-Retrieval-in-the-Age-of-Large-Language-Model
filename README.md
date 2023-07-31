@@ -20,7 +20,6 @@ We thank all the great contributors very much.
 - [Perspective Papers](#perspective-papers)
 
 - [Retrieval Augmented LLM](#retrieval-augmented-LLM)
-  * [Survey](#survey) 
   * [For Pre-training LLM](#for-pre-training-llm)  
   * [For Fine-tuning LLM](#for-fine-tuning-llm)        
   * [For Inference of LLM](#for-inference-of-llm)
@@ -38,6 +37,7 @@ We thank all the great contributors very much.
 
 ## Survey
 ### Retrieval Augmented LLM
+- [Retrieval-based Language Models and Applications](https://acl2023-retrieval-lm.github.io/) *Akari Asai et.al.* ACL 2023. (**Tutorial**)
 - [Augmented Language Models: a Survey](https://arxiv.org/pdf/2302.07842.pdf) *Grégoire Mialon et.al.* Arxiv 2023.
 - [Information Retrieval Meets Large Language Models: A Strategic Report from Chinese IR Community](https://arxiv.org/pdf/2307.09751.pdf) *Qingyao Ai et.al.* Arxiv 2023.
 

@@ -16,8 +16,9 @@ We thank all the great contributors very much.
 ## Contents
 - [Survey](#survey)
   * [Retrieval Augmented LLM](#retrieval-augmented-LLM)
+  * [LLM for IR](#LL-augmented-LLM)
 
-- [Perspective Papers](#perspective-papers)
+- [Perspective Papers](#LLM-for-IR)
 
 - [Retrieval Augmented LLM](#retrieval-augmented-LLM)
   * [For Pre-training LLM](#for-pre-training-llm)  
@@ -35,11 +36,14 @@ We thank all the great contributors very much.
 - [Benchmark and Evaluation](#benchmark-and-evaluation)
 - [Toolkits](#toolkits)
 
+
 ## Survey
 ### Retrieval Augmented LLM
 - [Retrieval-based Language Models and Applications](https://acl2023-retrieval-lm.github.io/) *Akari Asai et.al.* ACL 2023. (**Tutorial**)
 - [Augmented Language Models: a Survey](https://arxiv.org/pdf/2302.07842.pdf) *Grégoire Mialon et.al.* Arxiv 2023.
 - [Information Retrieval Meets Large Language Models: A Strategic Report from Chinese IR Community](https://arxiv.org/pdf/2307.09751.pdf) *Qingyao Ai et.al.* Arxiv 2023.
+### LLM for IR
+- [Large Language Models for Information Retrieval: A Survey](https://arxiv.org/pdf/2308.07107.pdf) *Yutao Zhu et.al.* Arxiv 2023.
 
 ## Perspective Papers
 - [Perspectives on Large Language Models for Relevance Judgment](https://arxiv.org/pdf/2304.09161.pdf) *Guglielmo Faggioli et.al.* ICTIR 2023. (**Best paper**)

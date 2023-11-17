@@ -33,6 +33,7 @@ We thank all the great contributors very much.
   * [Query Understanding](#query-understanding)
   * [Query Extension](#query-extension)      
   * [Generate rather than Retrieve](#generate-rather-than-retrieve) 
+- [LLM for IR](#Bias-for-IR)
 - [Benchmark and Evaluation](#benchmark-and-evaluation)
 - [Toolkits](#toolkits)
 
@@ -69,6 +70,7 @@ We thank all the great contributors very much.
 - [Interleaving retrieval with chain-of-thought reasoning for knowledge-intensive multi-step questions.](https://arxiv.org/pdf/2212.10509) *Harsh Trivedi et.al.* Arxiv 2022.
 - [Rethinking with retrieval: Faithful large language model inference.](https://arxiv.org/pdf/2301.00303) *Hangfeng He et.al.* Arxiv 2023.
 - [Investigating the Factual Knowledge Boundary of Large Language Models with Retrieval Augmentation](https://arxiv.org/abs/2307.11019) *Ruiyang Ren et.al.* Arxiv 2023.
+- [When Not to Trust Language Models: Investigating Effectiveness of Parametric and Non-Parametric Memories](https://arxiv.org/abs/2212.10511). *Alex Mallen et.al.* ACL 2023.
 
 
 ### Joint Optimization of IR and LLM
@@ -108,6 +110,10 @@ We thank all the great contributors very much.
 ### Generate rather than Retrieve
 
 - [Generate rather than retrieve: Large language models are strong context generators.](https://arxiv.org/pdf/2209.10063) *Wenhao Yu et.al.* ICLR 2023.
+
+## Bias for IR
+
+- [LLMs may Dominate Information Access: Neural Retrievers are Biased Towards LLM-Generated Texts](https://arxiv.org/abs/2310.20501). *Sunhao Dai et.al.* Arxiv 2023.
 
 
 ## Benchmark and Evaluation

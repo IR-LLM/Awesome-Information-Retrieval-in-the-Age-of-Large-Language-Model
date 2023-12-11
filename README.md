@@ -63,6 +63,7 @@ We thank all the great contributors very much.
 - [RAG: Retrieval-augmented generation for knowledge-intensive NLP tasks.](https://arxiv.org/pdf/2005.12989) *Patrick Lewis et.al.* NeurIPS 2020.
 - [FiD: Leveraging passage retrieval with generative models for open domain question answering.](https://arxiv.org/pdf/2007.01282) *Gautier Izacard, Edouard Grave* EACL 2021.
 - [Copy Is All You Need.](https://arxiv.org/abs/2307.06962) *Tian Lan et.al.* ICLR 2023. (**COG**)
+- [Chain-of-Note: Enhancing Robustness in Retrieval-Augmented Language Models.](https://arxiv.org/abs/2311.09210) *Wenhao Yu et.al.* Arxiv 2023. (**Chain-of-Note**)
 
 ### For Inference of LLM
 

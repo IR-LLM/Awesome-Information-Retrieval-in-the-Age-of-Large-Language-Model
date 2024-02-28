@@ -73,6 +73,7 @@ We thank all the great contributors very much.
 - [Rethinking with retrieval: Faithful large language model inference.](https://arxiv.org/pdf/2301.00303) *Hangfeng He et.al.* Arxiv 2023.
 - [Investigating the Factual Knowledge Boundary of Large Language Models with Retrieval Augmentation](https://arxiv.org/abs/2307.11019) *Ruiyang Ren et.al.* Arxiv 2023.
 - [When Not to Trust Language Models: Investigating Effectiveness of Parametric and Non-Parametric Memories](https://arxiv.org/abs/2212.10511). *Alex Mallen et.al.* ACL 2023.
+- [When Do LLMs Need Retrieval Augmentation? Mitigating LLMs’ Overconfidence Helps Retrieval Augmentation](https://arxiv.org/pdf/2402.11457.pdf) *Shiyu Ni et.al.* Arxiv 2024.
 
 
 ### Joint Optimization of IR and LLM

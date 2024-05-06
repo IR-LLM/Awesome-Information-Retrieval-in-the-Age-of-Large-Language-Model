@@ -126,3 +126,7 @@ We thank all the great contributors very much.
 ## Toolkits
 
 - [RETA-LLM: A Retrieval-Augmented Large Language Model Toolkit.](https://arxiv.org/pdf/2306.05212) *Jiongnan Liu et.al.* Arxiv 2023. [RETA-LLM](https://github.com/RUC-GSAI/YuLan-IR/tree/main/RETA-LLM)
+
+## Note
+
+- Shiyu is currently focusing on the timing for triggering RAG (when to retrieve) based on the responses from the LLMs. Regarding the papers, you can visit https://github.com/ShiyuNee/Awesome-Calibration-Papers

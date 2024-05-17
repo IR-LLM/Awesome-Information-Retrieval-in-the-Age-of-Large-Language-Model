@@ -44,11 +44,13 @@ We thank all the great contributors very much.
 - [Augmented Language Models: a Survey](https://arxiv.org/pdf/2302.07842.pdf) *Grégoire Mialon et.al.* Arxiv 2023.
 - [Information Retrieval Meets Large Language Models: A Strategic Report from Chinese IR Community](https://arxiv.org/pdf/2307.09751.pdf) *Qingyao Ai et.al.* Arxiv 2023.
 - [Retrieval-Augmented Generation for Large Language Models: A Survey](https://arxiv.org/pdf/2312.10997.pdf). *Yunfan Gao et.al.* Arxiv 2023.
+- [A Survey on RAG Meets LLMs: Towards Retrieval-Augmented Large Language Models](https://arxiv.org/abs/2405.06211). *Yujuan Ding et.al.* Arxiv 2024. 
 ### LLM for IR
 - [Large Language Models for Information Retrieval: A Survey](https://arxiv.org/pdf/2308.07107.pdf) *Yutao Zhu et.al.* Arxiv 2023.
 
 ## Perspective Papers
 - [Perspectives on Large Language Models for Relevance Judgment](https://arxiv.org/pdf/2304.09161.pdf) *Guglielmo Faggioli et.al.* ICTIR 2023. (**Best paper**)
+- [Information Retrieval Meets Large Language Models](https://dl.acm.org/doi/pdf/10.1145/3589335.3641299). *Zheng Liu et.al.* WWW 2024.
 
 ## Retrieval Augmented LLM
 

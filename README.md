@@ -44,7 +44,8 @@ We thank all the great contributors very much.
 - [Augmented Language Models: a Survey](https://arxiv.org/pdf/2302.07842.pdf) *Grégoire Mialon et.al.* Arxiv 2023.
 - [Information Retrieval Meets Large Language Models: A Strategic Report from Chinese IR Community](https://arxiv.org/pdf/2307.09751.pdf) *Qingyao Ai et.al.* Arxiv 2023.
 - [Retrieval-Augmented Generation for Large Language Models: A Survey](https://arxiv.org/pdf/2312.10997.pdf). *Yunfan Gao et.al.* Arxiv 2023.
-- [A Survey on RAG Meets LLMs: Towards Retrieval-Augmented Large Language Models](https://arxiv.org/abs/2405.06211). *Yujuan Ding et.al.* Arxiv 2024. 
+- [A Survey on RAG Meets LLMs: Towards Retrieval-Augmented Large Language Models](https://arxiv.org/abs/2405.06211). *Yujuan Ding et.al.* Arxiv 2024.
+
 ### LLM for IR
 - [Large Language Models for Information Retrieval: A Survey](https://arxiv.org/pdf/2308.07107.pdf) *Yutao Zhu et.al.* Arxiv 2023.
 
@@ -102,6 +103,10 @@ We thank all the great contributors very much.
 
 - [Is ChatGPT Good at Search? Investigating Large Language Models as Re-Ranking Agent.](https://arxiv.org/pdf/2304.09542) *Weiwei Sun et.al.* Arxiv 2023.
 - [Zero-Shot Listwise Document Reranking with a Large Language Model.](https://arxiv.org/pdf/2305.02156) *Xueguang Ma et.al.* Arxiv 2023.
+- [Are Large Language Models Good at Utility Judgments?](https://arxiv.org/pdf/2403.19216) *Hengran Zhang et.al.* SIGIR 2024.
+- [RankRAG: Unifying Context Ranking with Retrieval-Augmented Generation in LLMs](https://arxiv.org/html/2407.02485v1) *Yue Yu et.al.* Arxiv 2024.
+- [Iterative Utility Judgment Framework via LLMs Inspired by Relevance in Philosophy](https://arxiv.org/abs/2406.11290) *Hengran Zhang et.al.* Arxiv 2024.
+
 
 ### Query Understanding
 
@@ -111,6 +116,7 @@ We thank all the great contributors very much.
 
 - [Generative relevance feedback with large language models.](https://arxiv.org/pdf/2304.13157) *Iain Mackie et.al.* Arxiv 2023.
 - [Query2doc: Query expansion with large language models.](https://arxiv.org/pdf/2303.07678) *Liang Wang et.al.* Arxiv 2023.
+- [Enhancing Retrieval-Augmented Large Language Models with Iterative Retrieval-Generation Synergy](https://aclanthology.org/2023.findings-emnlp.620/) *Zhihong Shao et al.* findings of EMNLP 2023
 
 ### Generate rather than Retrieve
 

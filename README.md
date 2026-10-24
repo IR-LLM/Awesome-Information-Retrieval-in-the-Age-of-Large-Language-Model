@@ -68,6 +68,8 @@ We thank all the great contributors very much.
 - [FiD: Leveraging passage retrieval with generative models for open domain question answering.](https://arxiv.org/pdf/2007.01282) *Gautier Izacard, Edouard Grave* EACL 2021.
 - [Copy Is All You Need.](https://arxiv.org/abs/2307.06962) *Tian Lan et.al.* ICLR 2023. (**COG**)
 - [Chain-of-Note: Enhancing Robustness in Retrieval-Augmented Language Models.](https://arxiv.org/abs/2311.09210) *Wenhao Yu et.al.* Arxiv 2023. (**Chain-of-Note**)
+- [ParamMute: Suppressing Knowledge-Critical FFNs for Faithful Retrieval-Augmented Generation.](https://arxiv.org/abs/2502.15543) *Pengcheng Huang et.al.* NeurIPS 2025. (**ParamMute**)
+- [SPARK: Adaptive Parametric Knowledge Participation for Faithful Retrieval-Augmented Generation.](https://arxiv.org/abs/2606.27786) *Ruochang Li et.al.* Arxiv 2026. (**SPARK**)
 
 ### For Inference of LLM
 
@@ -117,6 +119,7 @@ We thank all the great contributors very much.
 - [Generative relevance feedback with large language models.](https://arxiv.org/pdf/2304.13157) *Iain Mackie et.al.* Arxiv 2023.
 - [Query2doc: Query expansion with large language models.](https://arxiv.org/pdf/2303.07678) *Liang Wang et.al.* Arxiv 2023.
 - [Enhancing Retrieval-Augmented Large Language Models with Iterative Retrieval-Generation Synergy](https://aclanthology.org/2023.findings-emnlp.620/) *Zhihong Shao et al.* findings of EMNLP 2023
+- [ExpandR: Teaching Dense Retrievers Beyond Queries with LLM Guidance.](https://aclanthology.org/2025.emnlp-main.963/) *Sijia Yao et.al.* EMNLP 2025.
 
 ### Generate rather than Retrieve
 
